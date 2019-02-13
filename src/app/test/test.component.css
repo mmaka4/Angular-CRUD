@@ -1,0 +1,12 @@
+.test-success {
+    color: green;
+    
+}
+.test-danger {
+    color: red;
+    
+}
+.test-special {
+    font-style: italic;
+    
+}
